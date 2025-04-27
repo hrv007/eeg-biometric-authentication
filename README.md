@@ -5,25 +5,25 @@ This repository contains the implementation of a novel EEG-based multi-subject a
 
 ## Key Features
 
-Multi-subject, multi-session, and multi-task (M3CV) EEG-based authentication approach
-Preprocessing pipeline using bad channel repairing, ICA for artifact removal, downsampling, and audio filtering
-Feature extraction using mel spectrograms for improved model performance
-CNN-based deep learning architecture with exceptional accuracy (99.86% validation)
-Robust and reliable authentication mechanism for high-security military environments
+* Multi-subject, multi-session, and multi-task (M3CV) EEG-based authentication approach
+* Preprocessing pipeline using bad channel repairing, ICA for artifact removal, downsampling, and audio filtering
+* Feature extraction using mel spectrograms for improved model performance
+* CNN-based deep learning architecture with exceptional accuracy (99.86% validation)
+* Robust and reliable authentication mechanism for high-security military environments
 
 ## Military Applications
 
-Access control for artillery and weapons systems
-Entry verification for highly confidential areas
-Remote control systems for critical defense infrastructure
-Continuous user authentication during sensitive operations
+* Access control for artillery and weapons systems
+* Entry verification for highly confidential areas
+* Remote control systems for critical defense infrastructure
+* Continuous user authentication during sensitive operations
 
 ## Results
 
-Validation accuracy: 99.86%
-Training accuracy: 98.49%
-Precision, recall, and F1-score: 99.91%
-Outperforms other state-of-the-art deep learning architectures
+* Validation accuracy: 99.86%
+* Training accuracy: 98.49%
+* Precision, recall, and F1-score: 99.91%
+* Outperforms other state-of-the-art deep learning architectures
 
 ## Paper
 For detailed information, please refer to our paper:
